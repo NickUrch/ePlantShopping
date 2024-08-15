@@ -1,1 +1,2 @@
-# coding-project-template
+# Coursera
+IBM - Building front-end applications with React
