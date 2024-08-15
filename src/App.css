@@ -37,9 +37,9 @@
 }
 
 .landing_content {
- margin-top: 430px;
+ margin-top: 350px;
   margin-left: 100px;
-  transform: translate(-25%, -25%);
+  transform: translate(0%, 0%);
   z-index: 1;
   text-align: center;
   /* background-color: red; */
